@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu Delicious</title>
+</head>
+<body>
+
+<h1>Menu Delicious</h1>
+
+<h2>Entrées</h2>
+<ul>
+    <li>
+        <strong>Salade Caprese</strong>
+        <p>Tomates fraîches, mozzarella et basilic arrosés de glaçage balsamique.</p>
+    </li>
+    <li>
+        <strong>Soupe à la tomate</strong>
+        <p>Soupe maison de tomates fraîches avec un soupçon de basilic et de crème.</p>
+    </li>
+    <li>
+        <strong>Bruschetta</strong>
+        <p>Tranches de pain grillé garnies de tomates, ail et huile d'olive.</p>
+    </li>
+</ul>
+
+<h2>Plats principaux</h2>
+<ul>
+    <li>
+        <strong>Saumon grillé</strong>
+        <p>Filet de saumon assaisonné et grillé, servi avec une sauce au beurre citron.</p>
+    </li>
+    <li>
+        <strong>Steak de boeuf</strong>
+        <p>Steak tendre, grillé à votre goût, accompagné de légumes sautés.</p>
+    </li>
+    <li>
+        <strong>Pâtes Alfredo</strong>
+        <p>Pâtes fraîches avec une sauce crémeuse au parmesan et morceaux de poulet.</p>
+    </li>
+</ul>
+
+<h2>Desserts</h2>
+<ul>
+    <li>
+        <strong>Fondue au chocolat</strong>
+        <p>Fruits et guimauves assortis servis avec une riche fondue au chocolat.</p>
+    </li>
+    <li>
+        <strong>Tiramisu</strong>
+        <p>Délicieux dessert italien à base de café, mascarpone et cacao.</p>
+    </li>
+    <li>
+        <strong>Crème brûlée</strong>
+        <p>Crème vanille caramélisée au four, croustillante sur le dessus et onctueuse à l'intérieur.</p>
+    </li>
+</ul>
+
+<p><a href="contact.html">Contactez-nous pour réservation</a></p>
+
+</body>
+</html>
